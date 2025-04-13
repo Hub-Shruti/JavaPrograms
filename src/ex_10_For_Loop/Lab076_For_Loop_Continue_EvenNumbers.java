@@ -1,6 +1,6 @@
 package ex_10_For_Loop;
 
-public class Lab076_For_Loop_Continue_EvenNumbers {
+public class Lab076_For_Loop_Continue_EvenOddNumbers {
 
     public static void main(String[] args) {
 
