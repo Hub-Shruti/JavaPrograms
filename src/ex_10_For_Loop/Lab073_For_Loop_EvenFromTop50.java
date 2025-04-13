@@ -10,9 +10,7 @@ public class Lab073_For_Loop_EvenFromTop50 {
         for (int i = 0; i < 50; i++)
         {
             if (i % 2 == 0)
-            {
-                System.out.println("Even -> " + i);
-            }
+                System.out.println("Even -> " + i);   // One-Line If condition can be executed without brackets as well
         }
     }
 }
