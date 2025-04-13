@@ -1,6 +1,6 @@
-package ex_02_Variables;
+package Tasks;
 
-public class Lab022_Table_of_9 {
+public class Task001_Table_of_9 {
 
     public static void main(String[] args) {
 
